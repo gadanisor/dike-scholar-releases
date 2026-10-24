@@ -1,0 +1,21 @@
+Package: dike-scholar
+Priority: optional
+Section: default
+Installed-Size: 572962
+Maintainer: Dike <gadanisor@gmail.com>
+Architecture: amd64
+Version: 0.1.0
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: pool/main/d/dike-scholar/dike-scholar_0.1.0_amd64.deb
+Size: 153905636
+MD5sum: e0d04e30dc8f6d407b10ac26d5872e9e
+SHA1: 8cb1f647619c2ab1e972e556d449d877db9b8676
+SHA256: 009b26f8a36925e384c8de41c1457cc6c4d847069174fa7df0a84f899dbe81d8
+SHA512: 0580d84cff7d52bdbb628ee07136a35a4200a0739d10a841865605a233f00425e834db7996ecc7c13d508f04e1ba2a689b7b4329e336217a0fa7c1e254cd2d80
+Description: 
+  Dike Scholar legal reading, research, notes, and writing workspace
+Homepage: https://dike.ro
+License: unknown
+Vendor: Dike <gadanisor@gmail.com>
+
